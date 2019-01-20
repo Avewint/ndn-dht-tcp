@@ -6,7 +6,7 @@ Quick guide:
 - Change original forwarder.cpp to new "forwarder.cpp"
 - Put "ndn-simple-new.cpp" into "~/ns-3/src/ndnSIM/examples"
 
-In order to word:
+In order to work:
 1) Please open 2 terminals in ns-3 folder and run chord-run first, by using "./waf --run=chord-run"
 2) When you see waiting for the client, on another terminal:
 first "g++ client.cpp -o client", then "./client"
